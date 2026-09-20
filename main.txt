@@ -1,6 +1,5 @@
   Line 1: first version
-  Line 2: first version
+  Line 2: changed in branch1
   Line 3: first version
-  Line 4: first version
   Line 5: first version
   Line 6: first version
