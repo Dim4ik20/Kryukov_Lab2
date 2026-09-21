@@ -3,5 +3,5 @@
   Line 2: changed in branch1
   Line 3: first version
   Line 4: changed in master
-  Line 5: first version
+  Line 5: edited by Dmitry
   Line 7: added in master
